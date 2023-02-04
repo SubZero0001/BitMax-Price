@@ -23,7 +23,7 @@
  - Offer 3 months 100$
  
  # Unlimited
- - Player Limit  1500
+ - Player Limit  -
  - Price 60$ per month
  - Offer 3 months 150$
  
