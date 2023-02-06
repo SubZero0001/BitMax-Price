@@ -1,4 +1,4 @@
-# FREE
+# Free
 - Player Limit  __30__
 - No time limition
 - All features are  __Available__
