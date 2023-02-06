@@ -1,7 +1,12 @@
+# FREE
+- Player Limit  __30__
+- No time limition
+- All features are  __Available__
+ 
 # Premium
-- Player Limit  300
-- Price 10$ per month
-- Offer 3 months 25$
+- Player Limit  __300__
+- Price  __10$__ per month
+- Offer 3 months __25$__
  
  #### Features Not Available
   - Old Stall networking
@@ -18,14 +23,14 @@
   - Region Player Attack Restrictions
  
  # Ultimate
- - Player Limit  1500
- - Price 40$ per month
- - Offer 3 months 100$
+ - Player Limit  __1500__
+ - Price __40$__ per month
+ - Offer 3 months __100$__
  
  # Unlimited
  - Player Limit  -
- - Price 60$ per month
- - Offer 3 months 150$
+ - Price __60$__ per month
+ - Offer 3 months __150$__
  
  # Discord 
  - SubZero*#7300
