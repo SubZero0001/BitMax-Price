@@ -28,7 +28,7 @@
  - Offer 3 months __100$__
  
  # Unlimited
- - Player Limit  -
+ - Player Limit  ∞
  - Price __60$__ per month
  - Offer 3 months __150$__
  
