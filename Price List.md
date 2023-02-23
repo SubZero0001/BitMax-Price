@@ -21,6 +21,16 @@
   - Bot Detection
   - Region Mob Attack Restrictions
   - Region Player Attack Restrictions
+  
+ # Platinum
+ - Player Limit  __500__
+ - Price __20$__ per month
+ - Offer 3 months __50$__
+   
+ # Gold
+ - Player Limit  __1000__
+ - Price __30$__ per month
+ - Offer 3 months __80$__
  
  # Ultimate
  - Player Limit  __1500__
