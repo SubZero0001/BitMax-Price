@@ -16,7 +16,6 @@
   - Instant Eliminate Monster Delivery
   - Custom Event Suits
   - Fast Revive Region
-  - Custom Region Exp
   - Region Entry Time Restrictions
   - Bot Detection
   - Region Mob Attack Restrictions
