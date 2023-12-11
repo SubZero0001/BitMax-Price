@@ -20,7 +20,8 @@
   - Bot Detection
   - Region Mob Attack Restrictions
   - Region Player Attack Restrictions
-  
+  - Silk Stall
+
  # Platinum
  - Player Limit  __500__
  - Price __20$__ per month
